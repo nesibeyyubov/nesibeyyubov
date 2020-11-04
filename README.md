@@ -7,4 +7,8 @@ I've started with frontend development first and then switched into android deve
 - 🌱 I’m currently learning android development with Kotlin language(I feel it will become one of favourite languages :) )
 - ⚡ Interesting fact: I love playing and watching football, so i am really looking into merging coding and this hobby to create something new
 
-- 📫 <b> How to reach me <b>
+  📫 <b> How to reach me <b>
+  
+  <a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></a>
+<a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></a>
+<a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></a>
