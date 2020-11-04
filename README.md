@@ -24,3 +24,7 @@ I've started with frontend development first and then switched into android deve
 <a target="_blank" href="https://www.facebook.com/eyyubov.5/"><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></a>
   <a target="_blank" href="nesibeyyubov2000@gmail.com"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png"></a>
   <a target="_blank" href="https://github.com/nesibeyyubov"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></a>
+  
+  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=shinokada&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
