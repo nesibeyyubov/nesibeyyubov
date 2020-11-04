@@ -1,6 +1,6 @@
 ### Hi there,i am Nasib👋
 
-I am an Android Developer and student at Baku Engineering University studying bachelor's degree.
+I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku Engineering University</a> studying bachelor's degree.
 I've started with frontend development first and then switched into android development which i love a lot.
 
 - 🔭 I’m currently working on the e-commerce app just for practicing things like Dagger2,MVVM and some other things i learned lately
