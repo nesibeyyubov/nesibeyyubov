@@ -9,6 +9,6 @@ I've started with frontend development first and then switched into android deve
 
   📫 <b> How to reach me <b>
   
+  <a><img height="40" src="https://image.flaticon.com/icons/png/512/174/174857.png"></a>
   <a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></a>
-<a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></a>
+  <a><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></a>
