@@ -21,6 +21,7 @@ I've started with frontend development first and then switched into android deve
   <a target="_blank" ><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png"></a>
   <a target="_blank" ><img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
+  <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"></a>
 <a target="_blank" ><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></a>
