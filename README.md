@@ -24,6 +24,9 @@ I've started with frontend development first and then switched into android deve
 <a target="_blank" ><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></a>
+  <a target="_blank" ><img height="25" src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png"></a>
+  <a target="_blank" ><img height="25" src="  https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo.png
+"></a>
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=nesibeyyubov&theme=default&show_icons=true&count_private=true)
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nesibeyyubov&layout=compact)
