@@ -5,7 +5,7 @@ I've started with frontend development first and then switched into android deve
 
 - 🔭 I’m currently working on the e-commerce app just for practicing things like Dagger2,MVVM and some other things i learned lately
 - 🌱 I’m currently learning android development with Kotlin language(I feel it will become one of favourite languages :smile: )
-- ⚡ Interesting fact: I love playing and watching football, so i am really looking into merging coding and this hobby to create something new
+- ⚡ Interesting fact: I love playing and watching football, so i am really looking into merging coding and this hobby to create something interesting
 
   <h3><b> How to reach me <b></h3>
   
