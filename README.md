@@ -3,7 +3,7 @@
 I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku Engineering University</a> studying bachelor's degree.
 I've started with frontend development first and then switched into android development which i love a lot.
 
-- 🔭 I’m currently working on the e-commerce app just for practicing things like Dagger2,MVVM and some other things i learned lately
+- 🔭 I’m currently working on the <a href="https://github.com/nesibeyyubov/e-commerce-app">e-commerce app</a> just for practicing things like Dagger2,MVVM and some other things i learned lately
 - 🌱 I’m currently learning android development with Kotlin language(I feel it will become one of favourite languages :smile: )
 - ⚡ Interesting fact: I love playing and watching football, so i am really looking into merging coding and this hobby to create something interesting
 
