@@ -5,7 +5,6 @@ I've started with frontend development first and then switched into android deve
 
 - ⭐ Last app i've built is <a href="https://github.com/nesibeyyubov/food-recipes-app">Food Recipes App</a>
 - 🌱 I’m currently learning android development with Kotlin language
-- ⚡ Interesting fact: I love playing and watching football, so i am really looking into merging coding and this hobby to create something interesting
 
   <h3><b> How to reach me <b></h3>
   
