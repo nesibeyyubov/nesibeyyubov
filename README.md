@@ -1,7 +1,6 @@
 ### Hi there,i am Nasib👋
 
-I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku Engineering University</a> studying bachelor's degree.
-I've started with frontend development first and then switched into android development which i love a lot.
+I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku Engineering University</a> studying bachelor's degree.I love learning any technology about android deveopment.
 
 - ⭐ Last app i've built is <a href="https://github.com/nesibeyyubov/food-recipes-app">Food Recipes App</a>
 - 🌱 I’m currently learning android development with Kotlin language
