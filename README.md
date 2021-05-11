@@ -8,7 +8,7 @@ I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku En
   <h3><b> How to reach me <b></h3>
   
   <a href="https://www.linkedin.com/in/nesib-eyyubov-4ba1b2181/"><img height="25" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a>
-  <a target="_blank" href="nesibeyyubov2000@gmail.com"><img height="25" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"></a>
+  <a href="mailto:nesibeyyubov2000@gmail.com"><img height="25" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"></a>
   <a target="_blank" href="https://github.com/nesibeyyubov"><img height="25" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
   
   
