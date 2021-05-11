@@ -22,7 +22,7 @@ I've started with frontend development first and then switched into android deve
   <a target="_blank" ><img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png"></a>
-  <a target="_blank" ><img height="25" src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png"></a>
+  <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></a>
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=nesibeyyubov&theme=default&show_icons=true&count_private=true)
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nesibeyyubov&layout=compact)
