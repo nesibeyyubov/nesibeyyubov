@@ -16,7 +16,7 @@ I've started with frontend development first and then switched into android deve
   
   <h3><b> Languages and tools i use <b></h3>
   
-  <a  href="https://www.linkedin.com/in/nesibeyyubov/"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" target="_blank"></a>
+  <a  href="https://www.linkedin.com/in/nesibeyyubov/"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" target="_blank"></a>
   <a target="_blank" ><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png"></a>
   <a target="_blank" ><img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
