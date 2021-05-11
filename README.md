@@ -19,8 +19,7 @@ I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku En
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png"></a>
   <a target="_blank" ><img height="25" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png"></a>
-  <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png"></a>
-  <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png"></a>
+  <a target="_blank" ><img height="25" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"></a>
   
   ![Github stats](https://github-readme-stats.vercel.app/api?username=nesibeyyubov&theme=default&show_icons=true&count_private=true)
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nesibeyyubov&layout=compact)
