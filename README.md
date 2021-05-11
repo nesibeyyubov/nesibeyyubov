@@ -15,6 +15,7 @@ I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku En
   <h3><b> Languages and tools i use <b></h3>
   
   <a  href="https://www.linkedin.com/in/nesibeyyubov/"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" target="_blank"></a>
+  <img height="20" width="20"/>
   <a target="_blank" ><img height="25" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"></a>
   <a target="_blank" ><img height="25" src="https://i.pinimg.com/originals/4e/74/7c/4e747c82368d9681b75d54f56319dae7.png"></a>
   <a target="_blank" ><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png"></a>
