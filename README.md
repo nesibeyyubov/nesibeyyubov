@@ -1,6 +1,6 @@
 ### Hi there,i am Nasib👋
 
-I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku Engineering University</a> studying bachelor's degree.I love learning any technology about android deveopment.
+I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku Engineering University</a> studying bachelor's degree.I love learning any technology about android development.
 
 - ⭐ Last app i've built is <a href="https://github.com/nesibeyyubov/quotegram-app">Quotegram App</a>
 - 🌱 I’m currently learning android development with Kotlin language
