@@ -2,7 +2,7 @@
 
 I am an Android Developer and student at <a href="https://beu.edu.az/az">Baku Engineering University</a> studying bachelor's degree.I love learning any technology about android development.
 
-- ⭐ Last app i've built is <a href="https://github.com/nesibeyyubov/quotegram-app">Quotegram App</a>
+- ⭐ Last app i've built is <a href="https://play.google.com/store/apps/details?id=com.nesib.quotegram">Quotegram App</a>
 - 🌱 I’m currently learning android development with Kotlin language
 
   <h3><b> How to reach me <b></h3>
