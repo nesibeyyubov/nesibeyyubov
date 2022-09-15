@@ -9,7 +9,7 @@ I am an Android Developer with more than one year experience developing various 
   
   <a href="https://www.linkedin.com/in/nesib-eyyubov-4ba1b2181/"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" target="_blank"></a>
   <a href="mailto:nasibeyyubov@gmail.com"><img height="25" src="https://i.pinimg.com/736x/a3/3f/7f/a33f7f3ad33f7ce6ef3bbca561960a39--email-icon-forgot-password.jpg"></a>
-  <a target="_blank" href="https://github.com/nesibeyyubov"><img height="25" src="https://image.flaticon.com/icons/png/512/25/25231.png"></a>
+  <a target="_blank" href="https://github.com/nesibeyyubov"><img height="25" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></a>
   
   
   <h3><b> Languages and tools i use <b></h3>
