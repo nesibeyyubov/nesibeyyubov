@@ -1,4 +1,4 @@
-### Hi there,i am Nasib👋
+### Hi there, I am Nasib👋
 
 I am an Android Developer with more than one year experience developing various android applications.
 
