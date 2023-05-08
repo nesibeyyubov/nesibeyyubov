@@ -3,7 +3,7 @@
 I am an Android Developer with more than one year experience developing various android applications.
 
 - ⭐ Last app i've built is <a href="https://github.com/nesibeyyubov/quotegram-app">Quotegram App</a>
-- 🌱 I’m currently learning android development with Kotlin language
+- 🌱 Life-long learner
 
   <h3><b> How to reach me <b></h3>
   
