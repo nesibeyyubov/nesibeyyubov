@@ -1,6 +1,6 @@
 ### Hi there, I am Nasib👋
 
-I am an Android Developer with more than one year experience developing various android applications.
+I am an Android Developer with several years of experience developing various android applications.
 
 - ⭐ Last app i've built is <a href="https://github.com/nesibeyyubov/quotegram-app">Quotegram App</a>
 - 🌱 Life-long learner
